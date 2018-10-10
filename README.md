@@ -1,4 +1,4 @@
-# Aesome PWA
+# Awesome PWA
 List of links to PWA related topics or technology I find.
 
 [Show me the links already!?!?!](#links)
