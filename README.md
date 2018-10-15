@@ -2,7 +2,7 @@
 List of links to PWA related topics or technology I find.
 
 * [Show me the links already!?!?!](#links)
-* [New Additions](#new
+* [New Additions](#new)
 
 ## Add?
 Feel free to submit PR's or suggest links
