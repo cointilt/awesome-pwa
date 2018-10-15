@@ -1,10 +1,14 @@
 # Awesome PWA
 List of links to PWA related topics or technology I find.
 
-[Show me the links already!?!?!](#links)
+* [Show me the links already!?!?!](#links)
+* [New Additions](#new
 
 ## Add?
 Feel free to submit PR's or suggest links
+
+## New
+* https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 
 ## Links
 
