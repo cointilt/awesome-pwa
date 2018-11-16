@@ -8,6 +8,7 @@ List of links to PWA related topics or technology I find.
 Feel free to submit PR's or suggest links
 
 ## New
+* https://web.dev/fast
 * https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 
 ## Links
